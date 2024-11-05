@@ -1,0 +1,24 @@
+/* background color = mengatur warna pada backgorund
+bacakgground image = mangatur gambar yang 
+akan digunakan pada background.
+background position = mangatur posisi gamabar pada background
+background repeat = mengatur jenis pangulangan gambar pada background */
+
+body {
+    background-color: rgb(143, 137, 124);
+    background-image: url(gambar/Nene_18_cutout.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    
+}
+
+a {
+    text-decoration: none;
+    color: bisque;
+    background-image: url(gambar/Nene_17_cutout.png);
+}
+
+
+/* contoh shprt nya background: lightpink url(gambar/Nene_20_cutout.png) top center no-repeat;
+
+

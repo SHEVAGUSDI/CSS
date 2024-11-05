@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: normal;
+    font-style: oblique;
+
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 50px;
+    color: blue;
+    
+}
+
+h2 {
+    font: italic normal bold 16px/18px helvetica,aria, sans-serif;
+
+}

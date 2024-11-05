@@ -1,0 +1,28 @@
+/* belajar mengenai text styling */
+/* color = memberi warna tulisan 
+text align = mengatur format paragraf
+text decoration = mengatur dekorasi pada text
+text transform = mengubah jenis huruf menjadi huruf besar, kecil/kapital
+letter spacing = mengatur huruf
+word spacing = mengatur antar kata */
+
+h1 { 
+    font-size: 100px;
+    color: aquamarine;
+    text-decoration: overline;
+}
+
+p {
+    color: #abcabc;
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none; 
+}
+
+h2 {
+    text-transform: capitalize;
+    letter-spacing: 20px;
+}
