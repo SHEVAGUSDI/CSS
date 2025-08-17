@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Student CRUD</string>
+    <string name="hello_world">Hello World!</string>
+    
+    <!-- Menu items -->
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="mata_kuliah">Mata Kuliah</string>
+    <string name="nilai">Nilai</string>
+    <string name="dosen">Dosen</string>
+    
+    <!-- Common buttons -->
+    <string name="save">Simpan</string>
+    <string name="clear">Bersihkan</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+    
+    <!-- Form fields -->
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+    <string name="nip">NIP</string>
+    <string name="kode_jurusan">Kode Jurusan</string>
+    <string name="nama_jurusan">Nama Jurusan</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="kode_mk">Kode MK</string>
+    <string name="nama_mk">Nama Mata Kuliah</string>
+    <string name="sks">SKS</string>
+    <string name="semester">Semester</string>
+    <string name="nilai_angka">Nilai</string>
+    <string name="grade">Grade</string>
+    
+    <!-- Messages -->
+    <string name="success_save">Data berhasil disimpan</string>
+    <string name="success_update">Data berhasil diupdate</string>
+    <string name="success_delete">Data berhasil dihapus</string>
+    <string name="error_validation">Mohon lengkapi semua field</string>
+    <string name="error_email">Format email tidak valid</string>
+    <string name="error_nilai">Nilai harus antara 0-100</string>
+    <string name="confirm_delete">Apakah Anda yakin ingin menghapus data ini?</string>
+    
+    <!-- Spinner default item -->
+    <string name="pilih_jurusan">Pilih Jurusan</string>
+    <string name="pilih_dosen">Pilih Dosen</string>
+    <string name="pilih_mahasiswa">Pilih Mahasiswa</string>
+    <string name="pilih_mata_kuliah">Pilih Mata Kuliah</string>
+</resources>
