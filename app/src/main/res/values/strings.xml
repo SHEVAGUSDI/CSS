@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Mahasiswa CRUD</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard Mahasiswa</string>
+    <string name="menu_mahasiswa">Data Mahasiswa</string>
+    <string name="menu_jurusan">Data Jurusan</string>
+    <string name="menu_mata_kuliah">Data Mata Kuliah</string>
+    <string name="menu_dosen">Data Dosen</string>
+    <string name="menu_nilai">Data Nilai</string>
+    
+    <!-- Common -->
+    <string name="add">Tambah</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="search">Cari...</string>
+    <string name="confirm_delete">Konfirmasi Hapus</string>
+    <string name="confirm_delete_message">Apakah Anda yakin ingin menghapus data ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    
+    <!-- Mahasiswa -->
+    <string name="mahasiswa_title">Data Mahasiswa</string>
+    <string name="add_mahasiswa">Tambah Mahasiswa</string>
+    <string name="edit_mahasiswa">Edit Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+    <string name="jurusan">Jurusan</string>
+    
+    <!-- Jurusan -->
+    <string name="jurusan_title">Data Jurusan</string>
+    <string name="add_jurusan">Tambah Jurusan</string>
+    <string name="edit_jurusan">Edit Jurusan</string>
+    <string name="kode_jurusan">Kode Jurusan</string>
+    <string name="nama_jurusan">Nama Jurusan</string>
+    <string name="fakultas">Fakultas</string>
+    
+    <!-- Mata Kuliah -->
+    <string name="mata_kuliah_title">Data Mata Kuliah</string>
+    <string name="add_mata_kuliah">Tambah Mata Kuliah</string>
+    <string name="edit_mata_kuliah">Edit Mata Kuliah</string>
+    <string name="kode_mk">Kode MK</string>
+    <string name="nama_mk">Nama Mata Kuliah</string>
+    <string name="sks">SKS</string>
+    <string name="semester">Semester</string>
+    <string name="dosen">Dosen</string>
+    
+    <!-- Dosen -->
+    <string name="dosen_title">Data Dosen</string>
+    <string name="add_dosen">Tambah Dosen</string>
+    <string name="edit_dosen">Edit Dosen</string>
+    <string name="nip">NIP</string>
+    <string name="nama_dosen">Nama Dosen</string>
+    
+    <!-- Nilai -->
+    <string name="nilai_title">Data Nilai</string>
+    <string name="add_nilai">Tambah Nilai</string>
+    <string name="edit_nilai">Edit Nilai</string>
+    <string name="mahasiswa_label">Mahasiswa</string>
+    <string name="mata_kuliah_label">Mata Kuliah</string>
+    <string name="nilai">Nilai</string>
+    <string name="grade">Grade</string>
+    <string name="tanggal_input">Tanggal Input</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_empty_field">Field ini tidak boleh kosong</string>
+    <string name="error_invalid_email">Format email tidak valid</string>
+    <string name="error_invalid_phone">Format telepon tidak valid</string>
+    <string name="error_duplicate_nim">NIM sudah digunakan</string>
+    <string name="error_duplicate_kode">Kode sudah digunakan</string>
+    <string name="error_invalid_nilai">Nilai harus antara 0-100</string>
+    
+    <!-- Success Messages -->
+    <string name="success_add">Data berhasil ditambahkan</string>
+    <string name="success_update">Data berhasil diperbarui</string>
+    <string name="success_delete">Data berhasil dihapus</string>
+</resources>
