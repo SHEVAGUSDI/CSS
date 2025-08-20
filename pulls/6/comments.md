@@ -1,0 +1,1 @@
+Starting Phase 1: Project Structure Setup for the Android Student CRUD application.
