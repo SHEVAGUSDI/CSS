@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Student CRUD</string>
+    
+    <!-- Main Menu -->
+    <string name="main_title">Student Management System</string>
+    <string name="btn_jurusan">Manage Jurusan</string>
+    <string name="btn_dosen">Manage Dosen</string>
+    <string name="btn_mahasiswa">Manage Mahasiswa</string>
+    <string name="btn_mata_kuliah">Manage Mata Kuliah</string>
+    <string name="btn_nilai">Manage Nilai</string>
+    
+    <!-- Common -->
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_delete">Are you sure you want to delete this item?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    
+    <!-- Jurusan -->
+    <string name="jurusan_title">Jurusan Management</string>
+    <string name="kode_jurusan">Kode Jurusan</string>
+    <string name="nama_jurusan">Nama Jurusan</string>
+    <string name="fakultas">Fakultas</string>
+    
+    <!-- Dosen -->
+    <string name="dosen_title">Dosen Management</string>
+    <string name="nip">NIP</string>
+    <string name="nama_dosen">Nama Dosen</string>
+    
+    <!-- Mahasiswa -->
+    <string name="mahasiswa_title">Mahasiswa Management</string>
+    <string name="nim">NIM</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="select_jurusan">Select Jurusan</string>
+    
+    <!-- Mata Kuliah -->
+    <string name="mata_kuliah_title">Mata Kuliah Management</string>
+    <string name="kode_mk">Kode Mata Kuliah</string>
+    <string name="nama_mk">Nama Mata Kuliah</string>
+    <string name="sks">SKS</string>
+    <string name="semester">Semester</string>
+    <string name="select_dosen">Select Dosen</string>
+    
+    <!-- Nilai -->
+    <string name="nilai_title">Nilai Management</string>
+    <string name="select_mahasiswa">Select Mahasiswa</string>
+    <string name="select_mata_kuliah">Select Mata Kuliah</string>
+    <string name="nilai">Nilai</string>
+    <string name="grade">Grade</string>
+    
+    <!-- Common Fields -->
+    <string name="alamat">Alamat</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+    
+    <!-- Validation Messages -->
+    <string name="field_required">This field is required</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="invalid_nilai">Nilai must be between 0 and 100</string>
+    <string name="unique_constraint">This value already exists</string>
+    <string name="success_saved">Data saved successfully</string>
+    <string name="success_deleted">Data deleted successfully</string>
+    <string name="error_occurred">An error occurred</string>
+</resources>
